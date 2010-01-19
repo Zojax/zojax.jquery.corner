@@ -1,23 +1,8 @@
-=======
-CHANGES
-=======
-
-2.01.1 (2009-10-30)
--------------------
-
-- Do not use standalone resource
+1.0.2 (Unreleased)
+------------------
 
 
-2.0.1.0 (2009-10-14)
---------------------
+1.0.1 (2010-01-19)
+------------------
 
-- Standalone resource include (for correct require resolve)
-
-- 2.01 version of plugin http://jquery.malsup.com/corner/
-
-
-0.9.1.0 (2008-11-19)
---------------------
-
-- JQuery roundcorners canvas 0.9.1
-  http://plugins.jquery.com/project/jquery-roundcorners-canvas
+- zojax initial release
